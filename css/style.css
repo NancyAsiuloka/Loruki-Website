@@ -203,7 +203,7 @@ code, pre {
     transform: translateY(-15px);
 }
 
-/* features */
+/* Features */
 .features-head img, 
 .docs-head img {
     width: 200px;
@@ -232,7 +232,7 @@ code, pre {
     grid-column: 1 / span 2;
 }
 
-/* docs */
+/* Docs */
 .docs-main h3{
     margin: 20px 0;
 }
